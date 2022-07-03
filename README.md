@@ -16,6 +16,9 @@ A Colorado Board of Elections employee needs the following tasks done to complet
 ## Summary
 The analysis of the election shows that:
 -There were "x" votes cast in the election.
+- Voter turnout by county:
+- Percentage of Votes from each county out the the total count:
+- County with the highest turnout:
 -The candidates were:
   - One
   - Two
